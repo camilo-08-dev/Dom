@@ -1,0 +1,34 @@
+.col2{
+width: 500px;
+}
+.lol{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.lo1{
+background-color: rgb(7, 91, 248);
+border: none;
+}
+body{
+    display: block;
+    text-align: center;
+background-image: url(https://media.giphy.com/media/Xy7cTkjFlNvbMCFBFu/giphy.gif);
+background-size: initial;
+font-size: 15px;
+
+}
+.color{
+    background-color: lightcyan;
+}
+p{
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+.letra{
+    font-family: 'Lobster', cursive;
+}
+.gifs{
+    width: 150px;
+  
+}
